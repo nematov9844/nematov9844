@@ -1,56 +1,19 @@
-<h1 align="center">Hi, I'm Ro'zimuhammad Ne'matov</h1>
-<h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
-
-<p align="center">
-  <a href="https://nr-style.uz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nr--style.uz-blue?style=flat-square" alt="Website" /></a>
-  <a href="https://t.me/NR_stylle" target="_blank"><img src="https://img.shields.io/badge/Telegram-@NR_stylle-2ca5e0?style=flat-square&logo=telegram" alt="Telegram" /></a>
-</p>
+<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0FF7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Ro'zimuhammad+Ne'matov;Frontend+Developer+%7C+React+%7C+Next.js;Clean+UI+%7C+Modern+UX+%7C+TS+lover" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🧑‍💻 About Me
-- I’m a frontend developer specializing in building modern and responsive web applications.
-- My focus is on performance, accessibility, and clean UI.
-- I love building with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
+## ⚡ ABOUT ME
 
----
-
-### ⚒️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,vite,git,github" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- [Project 1 Name](https://github.com/username/project1) – short description
-- [Project 2 Name](https://github.com/username/project2) – short description
-- [Project 3 Name](https://github.com/username/project3) – short description
-
-> *Send me your project links and I’ll update them here for you.*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📬 Contact Me
-- Telegram: [@NR_stylle](https://t.me/NR_stylle)
-- Website: [nr-style.uz](https://nr-style.uz)
-
----
-
-*Thank you for visiting my profile! Feel free to connect or collaborate on a project.*
+```ts
+const developer = {
+  name: "Ro'zimuhammad Ne'matov",
+  role: "Frontend Developer",
+  location: "Tashkent, Uzbekistan",
+  focus: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  tools: ["Node.js", "Express.js", "MongoDB"],
+  portfolio: "https://nr-style.uz",
+  telegram: "@NR_stylle",
+};
