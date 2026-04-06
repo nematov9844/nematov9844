@@ -1,21 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ro'zimuhammad+👋;Frontend+Developer+%7C+React+%2B+Next.js;I+build+clean%2C+fast+%26+animated+UIs;Open+to+Work+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Ro'zimuhammad+Ne'matov+👋;Frontend+Engineer+%7C+React+%2B+Next.js;Building+high-quality+UI%2FUX+⚡;Open+to+Work+🚀" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=nematov9844&label=Profile+Views&color=0e75b6&style=flat" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nematov9844&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="320" />
 </div>
 
 <h2 align="center">
-I design, build and optimize modern web interfaces ⚡
+I build products that feel fast, clean and alive ⚡
 </h2>
 
 ---
@@ -25,21 +29,21 @@ I design, build and optimize modern web interfaces ⚡
 ```ts
 const me = {
   name: "Ro'zimuhammad Ne'matov",
-  role: "Frontend Developer",
+  role: "Frontend Engineer",
   location: "Tashkent, Uzbekistan",
-  experience: "15+ projects",
+  experience: "15+ real projects",
   portfolio: "https://nr-style.uz",
   telegram: "@NR_stylle",
   stack: ["React", "Next.js", "TypeScript", "Tailwind"],
   backend: ["Node.js", "Express", "MongoDB"],
-  focus: "High-quality UI/UX & performance",
-  status: "🚀 Open to Work"
+  focus: "Performance + UX + Clean Architecture",
+  currently: "🚀 Open to Work & Freelance"
 }
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,figma,git,github,vite,vercel,redux,zustand,docker" />
@@ -47,49 +51,57 @@ const me = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Live Feel)
 
-### 🎨 Awesome UI
+### 🎨 Awesome UI System
 
-* Stack: React, Tailwind, TypeScript
-* ✨ Clean UI components & animations
-* 🔗 https://github.com/nematov9844
+<img src="https://via.placeholder.com/800x400?text=Awesome+UI+Preview" />
 
----
+* ⚙️ React + Tailwind + TypeScript
+* 🎯 Reusable UI components system
+* ✨ Smooth animations
 
-### 📝 Blog CMS
-
-* Stack: Next.js, MongoDB, App Router
-* ⚡ Full-stack blogging platform
-* 🔗 https://github.com/nematov9844
+👉 https://github.com/nematov9844
 
 ---
 
-### 🌙 Dark Admin
+### 📝 Blog CMS Platform
 
-* Stack: React, Zustand, Vite
-* 📊 Admin dashboard with state management
-* 🔗 https://github.com/nematov9844
+<img src="https://via.placeholder.com/800x400?text=Blog+CMS+Preview" />
 
----
+* ⚡ Next.js App Router
+* 🧠 Full-stack architecture
+* 🗄 MongoDB integration
 
-### 🎬 AnimeStream
-
-* Stack: Next.js, SSR, AnimeJS
-* 🎥 Streaming UI with animations
-* 🔗 https://github.com/nematov9844
+👉 https://github.com/nematov9844
 
 ---
 
-### 🎓 SRM System
+### 🌙 Dark Admin Dashboard
 
-* Stack: React, AntD, TanStack, Express
-* 🏫 Student management system
-* 🔗 https://github.com/nematov9844
+<img src="https://via.placeholder.com/800x400?text=Admin+Dashboard" />
+
+* 📊 Zustand state management
+* ⚡ Fast UI (Vite)
+* 🎯 Clean admin UX
+
+👉 https://github.com/nematov9844
 
 ---
 
-## 📊 GitHub Stats
+### 🎬 Anime Streaming UI
+
+<img src="https://via.placeholder.com/800x400?text=Anime+Streaming" />
+
+* 🎥 SSR + animations
+* ⚡ Smooth UI interactions
+* 🎨 Modern design
+
+👉 https://github.com/nematov9844
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -97,49 +109,50 @@ const me = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nematov9844&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=nematov9844&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nematov9844&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nematov9844&theme=tokyo-night" />
 
 </div>
 
 ---
 
-## 🧠 Developer Mindset
+## 🧠 Engineering Philosophy
 
-> “Clean code is not optional — it's a responsibility.”
+> “Make it work → Make it clean → Make it fast → Make it beautiful.”
 
-> “Good UI is invisible. Bad UI is unforgettable.”
+> “Users don’t see code. They feel it.”
 
-> “First make it work. Then make it fast. Then make it beautiful.”
+> “Details make the difference between good and great.”
 
 ---
 
 ## 💼 Hire Me
 
-💡 I’m currently open for:
+<div align="center">
 
-* Frontend Developer roles
-* Freelance projects
-* Startup collaborations
+🚀 Available for:
+Frontend Roles • Freelance • Startups
 
-⚡ What you get:
+</div>
 
-* Clean & scalable code
-* Pixel-perfect UI
-* Fast performance
-* Strong problem solving
+### What I bring:
+
+* ⚡ High-performance applications
+* 🎨 Pixel-perfect UI
+* 🧠 Clean scalable architecture
+* 🔥 Strong debugging skills
 
 ---
 
-## ☕ Let’s Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@NR_stylle-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/NR_stylle)
-[![Website](https://img.shields.io/badge/Portfolio-nr--style.uz-black?style=for-the-badge\&logo=vercel)](https://nr-style.uz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nr--style.uz-black?style=for-the-badge\&logo=vercel)](https://nr-style.uz)
 [![GitHub](https://img.shields.io/badge/GitHub-nematov9844-181717?style=for-the-badge\&logo=github)](https://github.com/nematov9844)
 
 </div>
@@ -147,13 +160,13 @@ const me = {
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XHAv3GveJMXp6/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" />
 </div>
 
 ---
 
 <div align="center">
 
-🔥 Built with passion, caffeine, and dark mode.
+🔥 Designed to stand out. Built to perform.
 
 </div>
