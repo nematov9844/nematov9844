@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Ro'zimuhammad+Ne'matov+👋;Frontend+Engineer+%7C+React+%2B+Next.js;Building+high-quality+UI%2FUX+⚡;Open+to+Work+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=850&lines=Ro'zimuhammad+Ne'matov+👋;Frontend+Engineer+%7C+React+%2B+Next.js;Building+clean%2C+fast+%26+animated+UI;Open+to+Work+🚀" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=nematov9844&label=Profile+Views&color=0e75b6&style=flat" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nematov9844&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+<img src="https://img.shields.io/github/followers/nematov9844?label=Followers&style=flat&color=blue" />
+<img src="https://img.shields.io/github/stars/nematov9844?affiliations=OWNER&style=flat&color=yellow" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="320" />
-</div>
 
-<h2 align="center">
-I build products that feel fast, clean and alive ⚡
-</h2>
+```diff
++ I design, build and optimize modern web interfaces ⚡
+- I don't just write code, I craft experiences
+```
+
+</div>
 
 ---
 
@@ -31,77 +33,41 @@ const me = {
   name: "Ro'zimuhammad Ne'matov",
   role: "Frontend Engineer",
   location: "Tashkent, Uzbekistan",
-  experience: "15+ real projects",
+  experience: "15+ projects",
   portfolio: "https://nr-style.uz",
   telegram: "@NR_stylle",
   stack: ["React", "Next.js", "TypeScript", "Tailwind"],
   backend: ["Node.js", "Express", "MongoDB"],
-  focus: "Performance + UX + Clean Architecture",
-  currently: "🚀 Open to Work & Freelance"
+  focus: "Performance + UX + Clean Code",
+  status: "🚀 Open to Work"
 }
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,figma,git,github,vite,vercel,redux,zustand,docker" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,figma,git,github,vite,vercel,redux,zustand,docker" />
+
 </div>
 
 ---
 
-## 🚀 Featured Projects (Live Feel)
+## 🚀 Projects
 
-### 🎨 Awesome UI System
-
-<img src="https://via.placeholder.com/800x400?text=Awesome+UI+Preview" />
-
-* ⚙️ React + Tailwind + TypeScript
-* 🎯 Reusable UI components system
-* ✨ Smooth animations
-
-👉 https://github.com/nematov9844
+```bash
+Awesome UI       → React + Tailwind + TypeScript
+Blog CMS         → Next.js + MongoDB
+Dark Admin       → React + Zustand + Vite
+AnimeStream      → Next.js + SSR + Animations
+SRM System       → React + AntD + Express
+```
 
 ---
 
-### 📝 Blog CMS Platform
-
-<img src="https://via.placeholder.com/800x400?text=Blog+CMS+Preview" />
-
-* ⚡ Next.js App Router
-* 🧠 Full-stack architecture
-* 🗄 MongoDB integration
-
-👉 https://github.com/nematov9844
-
----
-
-### 🌙 Dark Admin Dashboard
-
-<img src="https://via.placeholder.com/800x400?text=Admin+Dashboard" />
-
-* 📊 Zustand state management
-* ⚡ Fast UI (Vite)
-* 🎯 Clean admin UX
-
-👉 https://github.com/nematov9844
-
----
-
-### 🎬 Anime Streaming UI
-
-<img src="https://via.placeholder.com/800x400?text=Anime+Streaming" />
-
-* 🎥 SSR + animations
-* ⚡ Smooth UI interactions
-* 🎨 Modern design
-
-👉 https://github.com/nematov9844
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -119,35 +85,39 @@ const me = {
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 Philosophy
 
-> “Make it work → Make it clean → Make it fast → Make it beautiful.”
+```js
+while (!success) {
+  tryAgain()
+  improve()
+}
+```
 
-> “Users don’t see code. They feel it.”
-
-> “Details make the difference between good and great.”
+> Clean code is a responsibility.
+> UX is not design — it's feeling.
+> Speed is a feature.
 
 ---
 
 ## 💼 Hire Me
 
-<div align="center">
+```yaml
+status: available
+roles:
+  - Frontend Developer
+  - React / Next.js Engineer
+  - Freelance Developer
+```
 
-🚀 Available for:
-Frontend Roles • Freelance • Startups
-
-</div>
-
-### What I bring:
-
-* ⚡ High-performance applications
-* 🎨 Pixel-perfect UI
-* 🧠 Clean scalable architecture
-* 🔥 Strong debugging skills
+✔ Clean & scalable code
+✔ Pixel-perfect UI
+✔ Fast & optimized apps
+✔ Strong debugging mindset
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -160,13 +130,16 @@ Frontend Roles • Freelance • Startups
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" />
-</div>
 
----
+```css
+/* Final touch */
+:root {
+  --vibe: clean;
+  --mode: dark;
+  --energy: ⚡;
+}
+```
 
-<div align="center">
-
-🔥 Designed to stand out. Built to perform.
+🔥 Built different. Not just another developer.
 
 </div>
