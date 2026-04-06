@@ -1,123 +1,159 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00F7F7&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Ro'zimuhammad;Frontend+Wizard+%7C+React%2C+Next.js+%26+more!;I+turn+coffee+%E2%98%95+into+clean+code+%F0%9F%92%BB" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ro'zimuhammad+👋;Frontend+Developer+%7C+React+%2B+Next.js;I+build+clean%2C+fast+%26+animated+UIs;Open+to+Work+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nematov9844&label=Profile+Views&color=0e75b6&style=flat" />
+
 </div>
+
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" />
-</div><h2 align="center">I'm not just a Frontend Developer — I'm the guy who actually *reads* error messages.</h2>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="260" />
+</div>
+
+<h2 align="center">
+I design, build and optimize modern web interfaces ⚡
+</h2>
+
 ---
 
-🧠 About Me
+## 🧠 About Me
 
+```ts
 const me = {
-  fullName: "Ro'zimuhammad Ne'matov",
-  username: "nematov9844",
+  name: "Ro'zimuhammad Ne'matov",
+  role: "Frontend Developer",
   location: "Tashkent, Uzbekistan",
+  experience: "15+ projects",
   portfolio: "https://nr-style.uz",
   telegram: "@NR_stylle",
-  role: "Frontend Developer",
-  favoriteTech: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backendSkills: ["Node.js", "Express.js", "MongoDB"],
-  knownFor: "Building clean, brutalist, animated UI/UX websites",
-  funFact: "Sometimes I talk to my code. It usually doesn’t talk back."
-};
-
+  stack: ["React", "Next.js", "TypeScript", "Tailwind"],
+  backend: ["Node.js", "Express", "MongoDB"],
+  focus: "High-quality UI/UX & performance",
+  status: "🚀 Open to Work"
+}
+```
 
 ---
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,figma,git,github,vite,vercel,redux,zustand,docker" />
-</p>> If you see me without dark mode, call the police – I'm probably kidnapped.
-
-
-
-
----
-
-✨ Highlights
-
-☑þ Worked on over 15+ full-stack web projects (some still breathing!)
-
-☑þ Created personal portfolio on nr-style.uz
-
-☑þ Built custom design systems with Tailwind + TypeScript
-
-☑þ Can smell a missing semicolon from 3km away
-
-☑þ React + Next.js = Home sweet home
-
-☑þ Built SRM (Student Resource Management) system with Ant Design & TanStack Query
-
-☑þ Created custom hooks: useAxios & useApi for API abstraction
-
-☑þ Deployed projects with Vercel and Docker
-
-
-
----
-
-🚀 Featured Projects
-
-Project	Stack	Link
-
-Awesome UI	React, Tailwind, TypeScript	GitHub
-Blog CMS	Next.js, MongoDB, App Router	GitHub
-Dark Admin	React, Zustand, Vite	GitHub
-AnimeStream	Next.js, SSR, AnimeJS	GitHub
-SRM System	React, AntD, TanStack, Express	GitHub
-
-
-> Projects are live and kicking! Check them out, star 'em if you smile.
-
-
-
-
----
-
-📊 Stats? Sure!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nematov9844&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nematov9844&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nematov9844&layout=compact&theme=tokyonight" />
 </div>
----
-
-🍼 Developer Quotes
-
-> “If it works, don't touch it. Unless it's ugly. Then refactor.”
-“90% of coding is Googling. The other 10% is Stack Overflow.”
-“I don't write bugs, I write unexpected features.”
-
-
-
 
 ---
 
-☕ Let's Connect
+## 🚀 Featured Projects
 
-Telegram: @NR_stylle
+### 🎨 Awesome UI
 
-Website: nr-style.uz
+* Stack: React, Tailwind, TypeScript
+* ✨ Clean UI components & animations
+* 🔗 https://github.com/nematov9844
 
-GitHub: nematov9844
+---
 
-LinkedIn: linkedin.com/in/rozimuhammad (optional)
+### 📝 Blog CMS
 
-YouTube: @nrstyle (if you have)
+* Stack: Next.js, MongoDB, App Router
+* ⚡ Full-stack blogging platform
+* 🔗 https://github.com/nematov9844
 
+---
 
+### 🌙 Dark Admin
+
+* Stack: React, Zustand, Vite
+* 📊 Admin dashboard with state management
+* 🔗 https://github.com/nematov9844
+
+---
+
+### 🎬 AnimeStream
+
+* Stack: Next.js, SSR, AnimeJS
+* 🎥 Streaming UI with animations
+* 🔗 https://github.com/nematov9844
+
+---
+
+### 🎓 SRM System
+
+* Stack: React, AntD, TanStack, Express
+* 🏫 Student management system
+* 🔗 https://github.com/nematov9844
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nematov9844&show_icons=true&theme=tokyonight&count_private=true&border_radius=12" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nematov9844&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nematov9844&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🧠 Developer Mindset
+
+> “Clean code is not optional — it's a responsibility.”
+
+> “Good UI is invisible. Bad UI is unforgettable.”
+
+> “First make it work. Then make it fast. Then make it beautiful.”
+
+---
+
+## 💼 Hire Me
+
+💡 I’m currently open for:
+
+* Frontend Developer roles
+* Freelance projects
+* Startup collaborations
+
+⚡ What you get:
+
+* Clean & scalable code
+* Pixel-perfect UI
+* Fast performance
+* Strong problem solving
+
+---
+
+## ☕ Let’s Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@NR_stylle-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/NR_stylle)
+[![Website](https://img.shields.io/badge/Portfolio-nr--style.uz-black?style=for-the-badge\&logo=vercel)](https://nr-style.uz)
+[![GitHub](https://img.shields.io/badge/GitHub-nematov9844-181717?style=for-the-badge\&logo=github)](https://github.com/nematov9844)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XHAv3GveJMXp6/giphy.gif" width="200" />
-</div>> Made with caffeine, brutal honesty, dark mode and memes.
+  <img src="https://media.giphy.com/media/XHAv3GveJMXp6/giphy.gif" width="180" />
+</div>
 
+---
 
+<div align="center">
 
+🔥 Built with passion, caffeine, and dark mode.
+
+</div>
