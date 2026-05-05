@@ -54,10 +54,17 @@ I don't just write code — I build products people enjoy using.
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nematov9844&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nematov9844&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nematov9844&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nematov9844&theme=tokyo-night&hide_border=true" />
+
+</div>
 ---
 
 ## 💼 Work
