@@ -53,7 +53,7 @@ I don't just write code — I build products people enjoy using.
 
 ---
 
-## 📊 GitHub Stats
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -66,7 +66,14 @@ I don't just write code — I build products people enjoy using.
 
 </div>
 ---
+## 📊 GitHub
 
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/nematov9844?label=Followers&style=for-the-badge&color=00f7ff" />
+<img src="https://img.shields.io/github/stars/nematov9844?affiliations=OWNER&style=for-the-badge&color=facc15" />
+
+</div>
 ## 💼 Work
 
 I’m available for:
