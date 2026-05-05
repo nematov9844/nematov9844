@@ -55,8 +55,9 @@ I don't just write code — I build products people enjoy using.
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=nematov9844&show_icons=true&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nematov9844&layout=compact&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=nematov9844&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nematov9844&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
